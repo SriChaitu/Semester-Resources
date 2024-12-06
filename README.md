@@ -1,3 +1,4 @@
 # Semester resources
 
-# MA 423
+# MA 423 Matrix Computations
+
