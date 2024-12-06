@@ -1,3 +1,3 @@
-#Semester resources
+# Semester resources
 
-#MA 423
+# MA 423
